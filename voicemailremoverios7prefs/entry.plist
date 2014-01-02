@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = voicemailremoverios7prefs;
+	cell = PSLinkCell;
+	detail = voicemailremoverios7prefsListController;
+	icon = voicemailremoverios7prefs.png;
+	isController = 1;
+	label = VoicemailRemover;
+    };
+}

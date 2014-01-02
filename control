@@ -1,0 +1,9 @@
+Package: com.davidedj10.voicemailremoverios7
+Name: VoicemailRemoveriOS7
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Davide Fresilli
+Author: Davide Fresilli
+Section: Tweaks
